@@ -1,0 +1,4 @@
+#プレイヤーの頭の画像を取得するためのURL
+#{PlayerName} - プレイヤー名が代入されます
+#{PlayerUUID} - プレイヤーUUIDが代入されます
+HeadURL : "https://api.mineatar.io/face/{PlayerUUID}?scale=32"
